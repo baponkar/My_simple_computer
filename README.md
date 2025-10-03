@@ -6,6 +6,7 @@ In Binary 0 means 0 Volt and 1 means 5 Volt.
 
 We use 1 bit binary Operations.
 The Simple Output expected:
+
 ```
 Addition:
 0 + 0 = 0
@@ -56,6 +57,7 @@ Circuit Diagram:
 
 1. OR Gate:
 The below circuit will use to build up a single OR gate which will give OR Operation where OR operation is like when we give two input at A and B we give Y output then the Input vs Output values should be written in following Truth table
+
 ![OR Gate](img/or_gate.png)
 
 | A | B | Y |
@@ -70,7 +72,9 @@ The symbol of OR gate is shown in below
 
 2. AND Gate:
 The below circuit will be use to make AND gate.
+
 ![AND Gate](./img/and_gate.png)
+
 Where if we give two input A and B in And Gate we will get Y output by following way:
 
 | A | B | Y |
@@ -81,11 +85,13 @@ Where if we give two input A and B in And Gate we will get Y output by following
 | 1 | 1 | 1 |
 
 The symbol of AND gate is shown in below
+
 ![or gate symbol](./img/and_gate_symbol.png)
 
 3. NOT Gate:
 The NOT gate only take single input and give oposite output:
 The below citrcuit will use to make NOT gate
+
 ![NOT Gate](./img/not_gate.png)
 
 | A | Y |
@@ -94,6 +100,7 @@ The below citrcuit will use to make NOT gate
 | 1 | 0 |
 
 The symbol of NOT gate is shown in below
+
 ![or gate symbol](./img/not_gate_symbol.png)
 
 In the below circuit diagram we will use block diagram of OR, AND and NOT gate instead of their details internel diagram.
@@ -136,6 +143,7 @@ If we place input A and B we will get output at Y:
 0 / 1 = 0
 1 / 1 = 0
 ```
+
 ![Divisor](./img/divisor.png)
 
 ## Simulation animation in LogiSim:
