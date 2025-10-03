@@ -37,7 +37,7 @@ Division:
 
 ---
 
-## Components Required for 1-bit ALU
+## Components Required for 1-bit ALU(Without Multiplexer or Mux)
 To build all the gates, you will need the following components. I’ve included Amazon links for reference, but you can find cheaper options at local electronics shops like **Chandni Chowk**. A resistor pack may cover most of your requirements.
 
 | Component           | Quantity | Link |
@@ -175,6 +175,7 @@ Here’s an example of a simulation animation in Logisim:
 
 ![Simulation](./img/simulation.gif)
 
+The above circuit made with use of 4x2 Multiplexer (MUX) which help to select proper output by using op code. If you do not use MUX then you need to change manually to get right output from four operations (+ - x /).
 ---
 
 ### Future Enhancements
