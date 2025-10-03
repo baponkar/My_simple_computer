@@ -1,23 +1,5 @@
 # My Simple Computer
 ---
-
-<div id="google_translate_element"></div>
-
-<script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({
-    pageLanguage: 'en',
-    includedLanguages: 'bn',
-    layout: google.translate.TranslateElement.InlineLayout.SIMPLE
-  }, 'google_translate_element');
-}
-</script>
-
-<script type="text/javascript" 
-        src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
-</script>
-
----
 In this blog I will explain how could we make a simple one bit ALU(Arithmatic Logic Unit) which is the main backbone of a CPU.
 
 In Binary 0 means 0 Volt and 1 means 5 Volt.
