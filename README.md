@@ -175,7 +175,7 @@ Here’s an example of a simulation animation in Logisim:
 
 ![Simulation](./img/simulation.gif)
 
-The above circuit made with use of 4x2 Multiplexer (MUX) which help to select proper output by using op code. If you do not use MUX then you need to change manually to get right output from four operations (+ - x /).
+The above circuit made with use of 4x2 Multiplexer (MUX) which help to select proper output by using op code. If you do not use MUX then you need to change manually to get right output from four operations (+ - x /). Otherwise you could use [rotary switch](https://amzn.in/d/iqVN76d) which select single output from 4 output found from four operations.
 ---
 
 ### Future Enhancements
