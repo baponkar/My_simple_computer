@@ -1,0 +1,110 @@
+# The Following components are available in my cart
+
+IC
+------------- Robocraze.com -----------------------
+1. 74HC574 [Tri State Octal D Type Flip Flop] - 10
+2. 74HC86  [Quad 2 input EXOR Gate] - 2
+3. 74HC08  [Quad 2 Input AND Gate IC] - 8
+4. 74HC32  [Quad 2 Input OR Gate IC] - 8
+5. 74HC04  [Hex Inverter] - 6
+6. 74HC00  [Quad 2 Input Nand Gate] - 6
+7. 74HC154 [4 Line to 16 Line Decoder/DeMux] - 1
+8. 74LS161 [Synch 4 Bit Counter] - 2
+9. 74HC245 [3 State Octal Bus Transceiver ] - 5
+-------------- Robu.in ----------------------------
+10. 74HC157 [Quad 2 Input Multiplexer ] - 2
+11. CD4013 [Dual D type Flip Flop] - 2
+12. 74LS173 [4 Bit D type Registers with 3 State Output] - 1
+13. HM6116LFP-3 [Hitachi Semiconductor SRAM Asynchronous Memory IC 16Kbit Parallel 150 ns 24-SOIC] - 1
+14. SN74LS161N-XBLW [Edge 2V~6V 4 DIP 16 Counters, Dividers ROHS] - 1
+-------------- Self ------------------------------------------------------------------------------
+
+15. LM324N [OP AMP] - 2
+16. LM741CP [OP AMP] - 1
+17. UA741CP [OP AMP] - 1
+18. CD4017BE [CMOS decade counter and divider] - 1
+19. NE555 [Timer] - 1
+20. L7812CV [Linear Voltage Regulator: +12 V Steady Output] - 2
+21. L7805CV [Linear Voltage Regulator: +5 V Steady Output] - 1
+---------------------------------------------------------------------------------------------------
+22. Blue LED - 10
+23. Red LED - 10
+24. Green LED - 10
+25. Yellow LED - 12
+26. Sky Blue LED - 4
+27. White LED - 14
+28. Buzzer - 1
+29. Push Button Switch - 7
+30. microphone [ECM Capsule] - 1
+31. Bourns 3386-seris trimmer potentiometer - 3
+32. LDR - 3
+33. 1N4007 DIODE - 10
+34. 5.1 V Zenner Diode - 8
+35. 100K Variable Resister - 2
+36. 47K Variable Resister - 1
+37. 10K Variable Resister - 1
+38. 100K Variable Resister - 1
+39. 1K Variable Resister - 1
+40. 47K Variable Resister - 1
+41. 22K Variable Resister - 1
+42. 1 μF - 10
+43. 2.2 μF - 10
+44. 4.7 μF - 10
+45. 10 μF - 9
+46. 47 μF - 10
+47. 100 μF - 10
+48. 220 μF - 5
+49. 470 μF - 5
+50. 10 pF - 10
+51. 100 pF - 10
+52. 102 pF - 10
+53. 103 pF - 10
+54. 104 pF - 10
+55. 28-01611 Speaker - 1
+56. ESP8266 - 1
+57. JoySTick - 1
+58. Flame Sensor - 1
+59. RGB LED - 1
+60. Heartbeat Sensor - 1
+61. Light Cup - 1
+62. Hall Magnetic Sensor - 1
+63. Relay - 1
+64. Linear Hall - 1
+65. SMD RGB - 1
+66. 7 color flash - 1
+67. Tilt Switch - 1
+68. Temp 18B20 - 1
+69. Big Sound - 1
+70. Touch Sensor - 1
+71. Two color LED - 1
+72. Laser Emit - 1
+73. Ball Switch - 1
+74. Analog Temp - 1
+75. Small Sound - 1
+76. Digital Temperatur - 1
+77. Two Color - 1
+78. Button - 1
+79. Photoresistor - 1
+80. IR emission - 1
+81. Tracking - 1
+82. Buzzer - 1
+83. Read Switch - 1
+84. Shock - 1
+85. Temp & Humidity - 1
+86. IR Receiver - 1
+87. Avoid - 1
+88. Passive Buzzer - 1
+89. Mini Reed - 1
+90. Rotary Encoders - 1
+91. Analog Hall - 1
+92. Tap Module - 1
+93. Light Blocking - 1
+94. 2004A Display Module - 1
+95. Arduino Mega 2560 - 1
+96. 1 meter 5 color single core wire - 5
+97. 840 Points Solderless Bread Board - 8
+98. 5V 2A Power Adapter - 1
+99. DC Wire Female Connector 5.5 mm x 2.1 mm with Cable
+100. Old Desktop with Functional HDDD, DDR3 RAM, CPU FAN, Power Source, 
+101. Old Functional Deskjet Printer
+
