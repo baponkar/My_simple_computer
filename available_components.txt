@@ -107,4 +107,10 @@ IC
 99. DC Wire Female Connector 5.5 mm x 2.1 mm with Cable
 100. Old Desktop with Functional HDDD, DDR3 RAM, CPU FAN, Power Source, 
 101. Old Functional Deskjet Printer
-
+102. BC557B - 10
+103. N222A - 1
+104. 2N2222A - 10
+105. BC 547 - 8
+106. 2N3904 - 6
+107. 2N3906B - 4
+108. 
